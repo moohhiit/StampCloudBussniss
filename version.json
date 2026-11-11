@@ -1,5 +1,6 @@
 {
-  "version": "",
-  "apkUrl": "",
-  "releaseNotes": ""
+  "version": "2.11.0",
+  "apkUrl": "https://github.com/moohhiit/StampCloudBussniss/releases/download/v2.11.0/StampCloudBussniss",
+  "releaseNotes": "Add Shop Management",
+  "sha256": "5281dacf9d202abbcbc68234fccd960d6a6f70e2f13e75802c161ee440be6e57"
 }
